@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davelopiccolo" alt="davelopiccolo" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and his principal frameworks**
+- 🌱 I’m currently learning **Python and Computer Science**
 
 - 📫 How to reach me **iamjuwels@gmail.com**
 
