@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">An aspiring front end developer from Italy!</h3>
+<h3 align="center">Developer from Italy!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davelopiccolo&label=Profile%20views&color=0e75b6&style=flat" alt="davelopiccolo" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Python and Computer Science**
 
-- 📫 How to reach me **iamjuwels@gmail.com**
+- 📫 How to reach me **davelopiccolo98@gmail.com**
 
-- ⚡ Fun fact **My email looks weird cause I'm also a musician, best known as davejuwels :D**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
